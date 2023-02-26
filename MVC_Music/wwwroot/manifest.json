@@ -1,0 +1,17 @@
+{
+  "name": "Music Collection",
+  "short_name": "Music Coll.",
+  "description": "The most awesome application in the world",
+  "icons": [
+    {
+      "src": "/images/icon2.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon4.png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/"
+}
